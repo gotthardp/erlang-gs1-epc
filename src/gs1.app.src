@@ -1,0 +1,8 @@
+{application, gs1,
+	[{description, "Codec for GS1 EPC/RFID Tag Data Standard"},
+	{vsn, "0.0.1"},
+	{modules, []},
+	{registered, []},
+	{applications, [kernel, stdlib]}]}.
+
+% end of file

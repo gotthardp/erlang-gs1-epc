@@ -1,2 +1,3 @@
-# erlang-gs1-epc
-Erlang codec for GS1 EPC/RFID Tag Data Standard
+# Erlang codec for GS1 EPC/RFID Tag Data Standard
+
+Implementation of the [EPC/RFID TDS standard](http://www.gs1.org/epc/tag-data-standard).
